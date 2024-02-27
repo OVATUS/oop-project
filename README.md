@@ -4,9 +4,8 @@
 - author: None
   * id: 66114540346
   * name: นนทพันธ์ บุญตระการ
-- technology: streamlit
-- application description:
+## technology: streamlit
+## application description:
 
-* presentation: [slide/canva/etc..] link [public/ubu]
-* video: link [public/ubu]
- xoxoxo
+## presentation: [slide/canva/etc..] link [public/ubu]
+## video: link [public/ubu]

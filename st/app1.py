@@ -1,14 +1,6 @@
 import streamlit as st 
 
-p = 'p/m.png'
 
-page_bg_img = '''<style>
-.stApp {
-    background-image: url(p);
-    background-size: cover;
-}
-</style>'''
-st.markdown(page_bg_img, unsafe_allow_html=True)
 
 st.header('Anime:orange[Z] แนะนำ',divider='rainbow')
 

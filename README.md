@@ -8,4 +8,4 @@
 ## application description: เป็นการแนะนำอนิเมะ
 
 ## presentation:https://www.canva.com/design/DAF-_Ocm25s/PqzDRNd_ucLG_assS8CaOw/view?utm_content=DAF-_Ocm25s&utm_campaign=designshare&utm_medium=link&utm_source=editor
-## video: link [public/ubu]
+## video: link [public/ubu] https://drive.google.com/file/d/12R-Wkp6yHUUpgM_LUM3RzxXLOlGHaWlS/view?usp=sharing
